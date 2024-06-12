@@ -1,0 +1,88 @@
+/* body {
+    background-color: aqua;
+} */
+
+.col {
+    margin: 30px;
+    border: 2px solid black;
+    /* background-color: aqua; */
+    min-height: 200px;
+}
+
+#colm2 {
+    max-width: 300px;
+    margin-bottom: 330px; /*Playing with margin to makesure it is aligned as shown in wireframe.*/
+
+}
+
+#colm3 {
+    min-width: 825px;
+    min-height: 500px;
+}
+
+header {
+    text-align: center;
+}
+
+#admimg{
+    margin-left: 87%;
+    height: 60px;
+    width: 60px;
+    border: 1px solid black;
+    display: flex end;
+    border-radius: 270px;
+}
+
+.comad {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+#comnam {
+    margin-right: 300px;
+}
+
+#adm {
+    margin-left: 300px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    font-size: large;
+}
+
+#hero {
+    text-align: center;
+    margin-top: 10%;
+}
+
+#heroimg {
+   margin-left: 32%;
+}
+
+#comp {
+    text-align: center;
+    margin:30px;
+}
+
+.cards1 {
+    display: flex;
+    justify-content: space-around;
+} 
+
+#car1 {
+    margin-left: 20%;
+}
+
+#car2 {
+    margin-right: 20%;
+}
+
+#footcol {
+    max-width: 65%;
+    margin-left: 18%;
+}
+
